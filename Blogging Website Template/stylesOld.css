@@ -1,0 +1,371 @@
+
+body {
+
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+
+}
+
+
+
+
+.hrfirst {
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    overflow: visible;
+    text-align: center;
+  	height: 0;
+    width: 52%;
+
+
+}
+
+.hrfirst:after {
+    background: #fff;
+    content: 'YOUR TEXT HERE';
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+}
+
+.img64 {
+  width: 64px;
+  margin: 10px;
+
+}
+
+
+/* Upper Footer 5 Images + Menu (corner) */
+
+.WholeBodyMarign{
+  padding: 0 400px;
+}
+.SocialMedia{
+  display: inline-block;
+}
+
+
+.UpperMenuMargin {
+  display: inline-block;
+  margin-left: 540px;
+  }
+
+
+
+.UpperMenu {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #821752;
+}
+
+
+
+.socialmediaicon{
+  margin-right: 10px;
+}
+
+
+.hr11 {
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  margin-bottom: 0;
+}
+/* 900px*350px */
+
+.nine350 {
+margin-bottom: 30px;
+text-align: center;
+margin: 0 450px;
+
+}
+
+.nineBorder {
+border: solid 44px;
+border-color: #fff;
+}
+
+ /* Imaginative + Searchbar  */
+
+.insiderImaginative{
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 450px;
+
+}
+
+.Imaginative-div{
+  background-color: #e8e8e8;
+  padding-bottom: 200px;
+  margin-bottom: 380px;
+  padding-top: 30px;
+
+}
+
+.insiderTemp {
+  display: inline-block;
+}
+
+
+.insiderSearch {
+  display: inline-block;
+  padding-left: 280px;
+}
+
+.SubmitOne{
+font-size:1.2rem;
+border-radius: 5px;
+
+}
+.spaces1 {
+  background-color: #fff;
+}
+.button1{
+  background-color: #b52b65;
+}
+
+/* Navigation Bar */
+
+.purpleNav {
+
+  margin: 0 450px;
+  background-color: #b52b65;
+  padding: 20px 0;
+  text-align: left;
+  font-size: 1rem;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+
+}
+
+
+.PositionChanged {
+  position: absolute;
+  top: 200px;
+}
+
+.PurNavbar {
+  font-size: 0.8rem;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 20px;
+
+}
+
+
+/* That six blocks YOUR TITLE HERE */
+
+.FirstTitle {
+  margin: 50px 400px;
+  text-align: center;
+}
+
+
+
+.block1 {
+display: inline-block;
+
+
+}
+
+.blockin {
+  padding: 20px;
+  width: 300px;
+}
+
+.block1inner {
+  float: left;
+  margin: 20px;
+
+
+}
+
+
+
+/* Two Your Title Here */
+
+.WithTwoTitle {
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    overflow: visible;
+    text-align: center;
+  	height: 0;
+    width: 25%;
+    display: inline-block;
+
+    margin-left: 470px;
+
+
+}
+
+.WithTwoTitle:after {
+    background: #fff;
+    content: 'YOUR TEXT HERE';
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+
+}
+
+
+/* Second HR of your title */
+
+.WithTwoTitleBottom{
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    overflow: visible;
+    text-align: center;
+  	height: 0;
+    width: 25%;
+    display: inline-block;
+
+}
+
+.WithTwoTitleBottom:after {
+    background: #fff;
+    content: 'YOUR TEXT HERE';
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+
+}
+
+
+
+
+
+.bottomone {
+  display: inline-block;
+  width: 40%;
+
+
+}
+
+.bottom2div {
+  padding-top: 20px;
+  margin-left: 450px;
+  width: 1300px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+
+
+.PaddingToDoubleTitle {
+  padding-left: 150px;
+}
+
+
+.img-128 {
+  float: left;
+
+  border-radius: 100%;
+
+}
+
+
+/* Bigger Contact US TODAY  */
+
+.biggerContactus{
+  margin: 20px 450px;
+
+  background-color:  #b52b65;
+  border-radius: 10px;
+  margin-bottom: 50px;
+
+}
+
+.biggerin {
+  display: inline-block;
+  margin-left: 50px;
+
+
+}
+
+
+.ButtonEnd {
+font-size: 2rem;
+border-radius: 5px;
+
+}
+
+.buttongadj {
+  position: relative;
+  bottom: 20px;
+  left: 100px;
+}
+
+
+
+.foorterOne {
+
+
+  background-color: #e8e8e8;
+
+}
+
+.latest1 {
+display: inline-block;
+width: 450px;
+margin-left: 400px;
+
+
+
+}
+
+.block1inner {
+  float: left;
+  margin: 20px;
+
+
+}
+
+.h4End {
+  margin-left: 20px;
+}
+
+.CompanyDetail{
+  display: inline-block;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.FooterSec {
+  margin-top: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+
+.FooterSecSub {
+  margin-top: 10px;
+  background-color:  #b52b65;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+.ContactUs {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+
+.footerhr{
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  margin-bottom: 0;
+  margin-top: 0;
+
+}
+
+.Last{
+  background-color: #e8e8e8;
+  padding: 10px;
+}
+.Foot{
+  margin-left: 100px;
+
+}
+.MoveRight {
+  margin-left: 1100px;
+}
